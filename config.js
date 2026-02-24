@@ -1,7 +1,7 @@
 module.exports = {
     bot: {
         tokens: [
-          "YOUR_BOT_TOKEN_HERE",              // Main bot token - Replace with your actual token
+          "MTQ3NTgxODM1MjQ1Mzc1MDk2Ng.G8BG5o.IUt6rfhCgD2kzNknlVTWjJWWWM7wr6-D0sbmk4",              // Main bot token - Replace with your actual token
         //  "YOUR_SECOND_BOT_TOKEN_HERE",      // 2 bot token - Uncomment and replace to use
         //  "YOUR_THIRD_BOT_TOKEN_HERE",       // 3 bot token - Uncomment and replace to use
         //  "YOUR_FOURTH_BOT_TOKEN_HERE",      // 4 bot token - Uncomment and replace to use
@@ -18,7 +18,7 @@ module.exports = {
     },
     server: {
         guildId: '1466395620884353222',         // ايدي السيرفر
-        broadcastRoleId: '1466488915593793546', // ايدي الرول اللي يستخدم عليها البوت
+        broadcastRoleId: '1466838072384819201', // ايدي الرول اللي يستخدم عليها البوت
         reportChannelId: '1466396559624114222' // ايدي الروم اللي يرسل فيه البوت التقارير
     },
     broadcast: {
@@ -36,3 +36,4 @@ module.exports = {
     }
 
 };
+
